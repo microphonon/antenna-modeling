@@ -4,4 +4,4 @@
 The image below shows the radiation pattern at 144.2 MHz in free-space from the azimuth perspective (top view) with ARRL log scaling. 
 The T-match is not included in the model so the calculated VSWR will be incorrect. 
 
-![alt text](https://github.com/microphonon/antenna-modeling/blob/main/2M5WL/2M5WL)
+![alt text](https://github.com/microphonon/antenna-modeling/blob/main/2M5WL/azimuth.jpg)
